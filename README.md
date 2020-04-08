@@ -1,10 +1,11 @@
 # Reinforcement learning today
 
-## 2020-04-08: Today we share a podcast of Csaba Szepesvari.
+## 2020-04-08: Today we share a podcast of Csaba Szepesvari. [download link](https://media.transistor.fm/f3d46a86.mp3?download=true)
 
+### Introduction
 Csaba Szepesvari of DeepMind shares his views on Bandits, Adversaries, PUCT in AlphaGo / AlphaZero / MuZero, AGI and RL, what is timeless, and more!
 
-
+### Bio
 Csaba Szepesvari is:
 - Head of the Foundations Team at DeepMind
 - Professor of Computer Science at the University of Alberta
