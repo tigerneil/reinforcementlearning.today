@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Reinforcement learning today
 
-You can use the [editor on GitHub](https://github.com/tigerneil/reinforcementlearning.today/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 2020-04-08: Today we share a podcast of Csaba Szepesvari.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Csaba Szepesvari of DeepMind shares his views on Bandits, Adversaries, PUCT in AlphaGo / AlphaZero / MuZero, AGI and RL, what is timeless, and more!
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Csaba Szepesvari is:
+- Head of the Foundations Team at DeepMind
+- Professor of Computer Science at the University of Alberta
+- Canada CIFAR AI Chair
+- Fellow at the Alberta Machine Intelligence Institute 
+- Co-Author of the book Bandit Algorithms along with Tor Lattimore, and author of the book Algorithms for Reinforcement Learning
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tigerneil/reinforcementlearning.today/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### References
+- Bandit based monte-carlo planning, Levente Kocsis, Csaba Szepesvári
+- Bandit Algorithms, Tor Lattimore, Csaba Szepesvári
+- Algorithms for Reinforcement Learning, Csaba Szepesvári
+- The Predictron: End-To-End Learning and Planning, David Silver, Hado van Hasselt, Matteo Hessel, Tom Schaul, Arthur Guez, Tim Harley, Gabriel Dulac-Arnold, David Reichert, Neil Rabinowitz, Andre Barreto, Thomas Degris
+- A Bayesian framework for reinforcement learning, Strens
+- Solving Rubik’s Cube with a Robot Hand ; Paper, OpenAI, Ilge Akkaya, Marcin Andrychowicz, Maciek Chociej, Mateusz Litwin, Bob McGrew, Arthur Petron, Alex Paino, Matthias Plappert, Glenn Powell, Raphael Ribas, Jonas Schneider, Nikolas Tezak, Jerry Tworek, Peter Welinder, Lilian Weng, Qiming Yuan, Wojciech Zaremba, Lei Zhang
+- The Nonstochastic Multiarmed Bandit Problem, Peter Auer, Nicolò Cesa-Bianchi, Yoav Freund, and Robert E. Schapire
+- Deep Learning with Bayesian Principles, Mohammad Emtiyaz Khan
+- Tackling climate change with Machine Learning David Rolnick, Priya L. Donti, Lynn H. Kaack, Kelly Kochanski, Alexandre Lacoste, Kris Sankaran, Andrew Slavin Ross, Nikola Milojevic-Dupont, Natasha Jaques, Anna Waldman-Brown, Alexandra Luccioni, Tegan Maharaj, Evan D. Sherwin, S. Karthik Mukkavilli, Konrad P. Kording, Carla Gomes, Andrew Y. Ng, Demis Hassabis, John C. Platt, Felix Creutzig, Jennifer Chayes, Yoshua Bengio
