@@ -1,7 +1,7 @@
 # Reinforcement learning today
 
 - 2020-04-19: Today we share a paper:
-  - Artificial and Computational Intelligence in Games: Revolutions in Computational Game AI, by Jialin Liu, Tom Schaul, Pieter Spronck, and Julian Togelius
+  - Artificial and Computational Intelligence in Games: Revolutions in Computational Game AI, by Jialin Liu, Tom Schaul, Pieter Spronck, and Julian Togelius [Details](2020-04-19.md)
   - [download link](https://drops.dagstuhl.de/opus/volltexte/2020/12011/pdf/dagrep_v009_i012_p067_19511.pdf#page=9)
 
 - 2020-04-13: Today we share a paper:
