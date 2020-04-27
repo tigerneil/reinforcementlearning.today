@@ -1,5 +1,9 @@
 # Reinforcement learning today
 
+- 2020-04-27: Today we share a paper:
+  - Behaviour Suite for Reinforcement Learning, by Ian Osband, Yotam Doron, Matteo Hessel, John Aslanides, Eren Sezener, Andre Saraiva, Katrina McKinney, Tor Lattimore, Csaba Szepesvari, Satinder Singh, Benjamin Van Roy, Richard Sutton, David Silver, Hado Van Hasselt [Details](2020-04-27.md)
+  - [link](https://openreview.net/pdf?id=rygf-kSYwH)
+
 - 2020-04-22: Today we share a webconf:
   - RLTheory Seminars: a virtual seminar focuses on theoretical reinforcement learning. 
   - [link](https://sites.google.com/view/rltheoryseminars)
