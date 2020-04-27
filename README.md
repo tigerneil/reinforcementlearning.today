@@ -2,7 +2,8 @@
 
 - 2020-04-27: Today we share a paper:
   - Behaviour Suite for Reinforcement Learning, by Ian Osband, Yotam Doron, Matteo Hessel, John Aslanides, Eren Sezener, Andre Saraiva, Katrina McKinney, Tor Lattimore, Csaba Szepesvari, Satinder Singh, Benjamin Van Roy, Richard Sutton, David Silver, Hado Van Hasselt [Details](2020-04-27.md)
-  - [link](https://openreview.net/pdf?id=rygf-kSYwH)
+  - [download link](https://openreview.net/pdf?id=rygf-kSYwH)
+  - [code repositary](https://github.com/deepmind/bsuite)
 
 - 2020-04-22: Today we share a webconf:
   - RLTheory Seminars: a virtual seminar focuses on theoretical reinforcement learning. 
@@ -18,6 +19,6 @@
 
 - 2020-04-08: Today we share a podcast of Csaba Szepesvari: 
   - Csaba Szepesvari of DeepMind shares his views on Bandits, Adversaries, PUCT in AlphaGo / AlphaZero / MuZero, AGI and RL, what is timeless, and more! [Details](2020-04-08.md)
-  - [download link](https://www.talkrl.com/episodes/csaba-szepesvari)
+  - [link](https://www.talkrl.com/episodes/csaba-szepesvari)
 
 
