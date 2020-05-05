@@ -1,5 +1,9 @@
 # Reinforcement learning today
 
+- 2020-05-05: Today we share a webconf：
+  - Leverage the Average: An Analysis of Regularization in RL, Nino Vieillard, Tadashi Kozuno, Bruno Scherrer, Olivier Pietquin, Rémi Munos, Matthieu Geist [Details](2020-05-05.md)
+  - [link](https://www.youtube.com/watch?v=DfJHL7IjCnY&feature=youtu.be)
+
 - 2020-04-27: Today we share a paper:
   - Behaviour Suite for Reinforcement Learning, by Ian Osband, Yotam Doron, Matteo Hessel, John Aslanides, Eren Sezener, Andre Saraiva, Katrina McKinney, Tor Lattimore, Csaba Szepesvari, Satinder Singh, Benjamin Van Roy, Richard Sutton, David Silver, Hado Van Hasselt [Details](2020-04-27.md)
   - [download link](https://openreview.net/pdf?id=rygf-kSYwH)
