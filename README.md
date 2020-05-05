@@ -1,7 +1,8 @@
 # Reinforcement learning today
 
 - 2020-05-05: Today we share a webconf：
-  - Leverage the Average: An Analysis of Regularization in RL, Nino Vieillard, Tadashi Kozuno, Bruno Scherrer, Olivier Pietquin, Rémi Munos, Matthieu Geist [Details](2020-05-05.md)
+  - Leverage the Average: An Analysis of Regularization in RL
+  - Speaker: Matthieu Geist [Details](2020-05-05.md)
   - [link](https://www.youtube.com/watch?v=DfJHL7IjCnY&feature=youtu.be)
 
 - 2020-04-27: Today we share a paper:
