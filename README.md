@@ -1,5 +1,9 @@
 # Reinforcement learning today
 
+- 2020-05-11: Today we share a paper:
+  - The Value of Abstraction, by Mark K. Ho, David Abel, Thomas L. Griffiths, Michael L. Littman [Details](2020-05-11.md)
+  - [download link](http://cocosci.princeton.edu/papers/valueofabstraction.pdf)
+
 - 2020-05-05: Today we share a webconf：
   - Leverage the Average: An Analysis of Regularization in RL [Details](2020-05-05.md)
   - Speaker: Matthieu Geist 
