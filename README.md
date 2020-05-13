@@ -1,5 +1,9 @@
 # Reinforcement learning today
 
+- 2020-05-12: Today we share a paper:
+  - Plan2Vec: Unsupervised Representation Learning by Latent Plans, by Ge Yang, Amy Zhang, Ari S. Morcos, Joelle Pineau, Pieter Abbeel, Roberto Calandra [Details](2020-05-13.md)
+  - [download link](https://arxiv.org/pdf/2005.03648)
+
 - 2020-05-11: Today we share a paper:
   - The Value of Abstraction, by Mark K. Ho, David Abel, Thomas L. Griffiths, Michael L. Littman [Details](2020-05-11.md)
   - [download link](http://cocosci.princeton.edu/papers/valueofabstraction.pdf)
