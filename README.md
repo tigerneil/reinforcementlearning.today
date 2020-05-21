@@ -1,5 +1,9 @@
 # Reinforcement learning today
 
+- 2020-05-21: Today we share a paper:
+  - Deterministic Bellman Residual Minimization, by Ehsan Saleh and Nan Jiang [Details](2020-05-21.md)
+  - [Download link](https://pdfs.semanticscholar.org/a47e/9b858af68ded7c31432a9da04b3f4e666b1d.pdf?_ga=2.26312702.2115660324.1590053392-954161124.1587456871)
+  
 - 2020-05-12: Today we share a paper:
   - Plan2Vec: Unsupervised Representation Learning by Latent Plans, by Ge Yang, Amy Zhang, Ari S. Morcos, Joelle Pineau, Pieter Abbeel, Roberto Calandra [Details](2020-05-13.md)
   - [download link](https://arxiv.org/pdf/2005.03648)
