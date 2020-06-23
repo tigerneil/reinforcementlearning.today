@@ -3,7 +3,7 @@
 
 - 2020-06-23: Today we share a paper:
   - An Optimistic Perspective on Offline Reinforcement Learning, by Rishabh Agarwal, Dale Schuurmans, and Mohammad Norouzi [Details](2020-06-23.md)
-  - [downlink](https://arxiv.org/pdf/1907.04543.pdf)
+  - [download link](https://arxiv.org/pdf/1907.04543.pdf)
   
 - 2020-05-21: Today we share a paper:
   - Deterministic Bellman Residual Minimization, by Ehsan Saleh and Nan Jiang [Details](2020-05-21.md)
