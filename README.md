@@ -1,5 +1,8 @@
 # Reinforcement learning today
 
+- 2020-06-24: Today we share a paper:
+  - The Value-Improvement Path Towards Better Representations for Reinforcement Learning, by Will Dabney, Andre Barreto, Mark Rowland, Robert Dadashi, John Quan, Marc G. Bellemare, and David Silver [Details](2020-06-24.md)
+  - [download link](https://arxiv.org/pdf/2006.02243.pdf)
 
 - 2020-06-23: Today we share a paper:
   - An Optimistic Perspective on Offline Reinforcement Learning, by Rishabh Agarwal, Dale Schuurmans, and Mohammad Norouzi [Details](2020-06-23.md)
