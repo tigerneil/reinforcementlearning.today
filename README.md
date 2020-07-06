@@ -1,5 +1,9 @@
 # Reinforcement learning today
 
+- 2020-07-06: Today we share a paper:
+  - An operator view of policy gradient methods, by Dibya Ghosh, Marlos C. Machado, and Nicolas Le Roux [Details](2020-07-06.md)
+  - [download link](https://arxiv.org/pdf/2006.11266.pdf)
+
 - 2020-06-24: Today we share a paper:
   - The Value-Improvement Path Towards Better Representations for Reinforcement Learning, by Will Dabney, Andre Barreto, Mark Rowland, Robert Dadashi, John Quan, Marc G. Bellemare, and David Silver [Details](2020-06-24.md)
   - [download link](https://arxiv.org/pdf/2006.02243.pdf)
