@@ -1,5 +1,9 @@
 # Reinforcement learning today
 
+- 2020-08-02: Today we share a paper:
+  - Discovering Reinforcement Learning Algorithms, by Junhyuk Oh Matteo Hessel, Wojciech M. Czarnecki, Zhongwen Xu, Hado van Hasselt, Satinder Singh, David Silver [Details](2020-08-02.md)
+  - [download link](https://arxiv.org/pdf/2007.08794v1.pdf)
+  
 - 2020-07-06: Today we share a paper:
   - An operator view of policy gradient methods, by Dibya Ghosh, Marlos C. Machado, and Nicolas Le Roux [Details](2020-07-06.md)
   - [download link](https://arxiv.org/pdf/2006.11266.pdf)
