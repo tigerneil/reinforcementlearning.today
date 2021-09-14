@@ -1,5 +1,8 @@
 # Reinforcement learning today
 
+- 2021-09-14: Today we share a paper:
+  - CoBERL: Contrastive BERT for Reinforcement Learning, by Andrea Banino, Tim Scholtes, Adrià Puidomenech Badia, Jovana Mitrovic, Jacob Walker, Charles Blundell
+  - [download link](https://arxiv.org/pdf/2107.05431.pdf)
 - 2021-07-03: Today we share a paper:
   - Causally Correct Partial Models for Reinforcement Learning, by Danilo J. Rezende, Ivo Danihelka, George Papamakarios, Nan Rosemary Ke, Ray Jiang, Theophane Weber, Karol Gregor, Hamza Merzic, Fabio Viola, Jane Wang, Jovana Mitrovic, Frederic Besse, Ioannis Antonoglou, Lars Buesing [Details](2021-07-03.md)
   - [download link](https://arxiv.org/pdf/2002.02836v1.pdf)
