@@ -1,5 +1,9 @@
 # Reinforcement learning today
 
+- 2021-09-18: Today we share a paper:
+  - Negotiating team formation using deep reinforcement learning, by Yoram Bachrach, Richard Everett, Edward Hughes, Angeliki Lazaridou, Joel Z. Leibo, Marc Lanctot, Michael Johanson, Wojciech M. Czarnecki, Thore Graepel
+    - [download link](https://reader.elsevier.com/reader/sd/pii/S0004370220301077?token=ED33ECE3E50DC0E1E045450A04B76DAC639BBFE765C04357C32041DBC5575666D3769AAB5D1C9F1BCB9915173A6ACA30&originRegion=us-east-1&originCreation=20210918054136)
+
 - 2021-09-14: Today we share two papers:
   - CoBERL: Contrastive BERT for Reinforcement Learning, by Andrea Banino, Tim Scholtes, Adrià Puidomenech Badia, Jovana Mitrovic, Jacob Walker, Charles Blundell
     - [download link](https://arxiv.org/pdf/2107.05431.pdf)
