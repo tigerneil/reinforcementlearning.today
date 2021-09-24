@@ -1,7 +1,7 @@
 # Reinforcement learning today
 
 - 2021-09-24: Today we share a paper:
-  - A Minimalist Approach to Offline Reinforcement Learning, by Scott Fujimoto Shixiang Shane Gu
+  - A Minimalist Approach to Offline Reinforcement Learning, by Scott Fujimoto, Shixiang Shane Gu
     - [download link](https://arxiv.org/pdf/2106.06860.pdf)
 - 2021-09-18: Today we share a paper:
   - Negotiating team formation using deep reinforcement learning, by Yoram Bachrach, Richard Everett, Edward Hughes, Angeliki Lazaridou, Joel Z. Leibo, Marc Lanctot, Michael Johanson, Wojciech M. Czarnecki, Thore Graepel
