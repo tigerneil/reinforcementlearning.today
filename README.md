@@ -1,5 +1,7 @@
 # Reinforcement learning today
-
+- 2021-09-28: Today we share a paper:
+  - Qatten: A General Framework for Cooperative Multiagent Reinforcement Learning, by Yaodong Yang, Jianye Hao, Ben Liao, Kun Shao, Guangyong Chen, Wulong Liu, Hongyao Tang
+    - [download link](https://arxiv.org/pdf/2002.03939.pdf)
 - 2021-09-24: Today we share a paper:
   - A Minimalist Approach to Offline Reinforcement Learning, by Scott Fujimoto, Shixiang Shane Gu
     - [download link](https://arxiv.org/pdf/2106.06860.pdf)
