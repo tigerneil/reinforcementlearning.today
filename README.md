@@ -1,4 +1,8 @@
 # Reinforcement learning today
+
+- 2021-10-06: Today we share a paper:
+  - Reinforcement Learning with Information-Theoretic Actuation, by Elliot Catt, Marcus Hutter, Joel Veness
+    - [download link](https://arxiv.org/pdf/2109.15147.pdf)
 - 2021-09-28: Today we share a paper:
   - Qatten: A General Framework for Cooperative Multiagent Reinforcement Learning, by Yaodong Yang, Jianye Hao, Ben Liao, Kun Shao, Guangyong Chen, Wulong Liu, Hongyao Tang
     - [download link](https://arxiv.org/pdf/2002.03939.pdf)
