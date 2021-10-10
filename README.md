@@ -1,5 +1,8 @@
 # Reinforcement learning today
 
+- 2021-10-11: Today we share a paper:
+  -  Batch size-invariance for policy optimization, by Jacob Hilton, Karl Cobbe, John Schulman
+    - [download link](https://arxiv.org/pdf/2110.00641.pdf)
 - 2021-10-08: Today we share a paper;
   - Recursively Summarizing Books with Human Feedback, by Jeff Wu, Long Ouyang, Daniel M. Ziegler, Nisan Stiennon, Ryan Lowe, Jan Leike, Paul Christiano
     - [download link](https://arxiv.org/pdf/2109.10862.pdf)
