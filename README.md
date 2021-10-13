@@ -1,5 +1,8 @@
 # Reinforcement learning today
 
+- 2021-10-13: Today we share a paper:
+  - Revisiting Rainbow: Promoting more Insightful and Inclusive Deep Reinforcement Learning Research, by Johan S. Obando-Ceron, Pablo Samuel Castro
+    - [download link](https://arxiv.org/pdf/2011.14826)
 - 2021-10-11: Today we share a paper:
   - Batch size-invariance for policy optimization, by Jacob Hilton, Karl Cobbe, John Schulman
     - [download link](https://arxiv.org/pdf/2110.00641.pdf)
