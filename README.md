@@ -1,5 +1,9 @@
 # Reinforcement learning today
 
+- 2021-10-16: Today we share a paper:
+  - Nash Equilibria in Finite-Horizon Multiagent Concurrent Games, by Senthil Rajasekaran, Moshe Y. Vardi
+    - [download link](https://arxiv.org/pdf/2101.00716.pdf)
+    - **keywords**: multiagent, Nash, complexity
 - 2021-10-13: Today we share a paper:
   - Revisiting Rainbow: Promoting more Insightful and Inclusive Deep Reinforcement Learning Research, by Johan S. Obando-Ceron, Pablo Samuel Castro
     - [download link](https://arxiv.org/pdf/2011.14826)
