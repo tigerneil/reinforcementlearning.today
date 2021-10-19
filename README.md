@@ -1,5 +1,8 @@
 # Reinforcement learning today
 
+- 2021-10-20: Today we share a paper:
+  - Temporal Abstraction in Reinforcement Learning with the Successor Representation, by Marlos C. Machado, André Barreto, Doina Precup
+    - [download link](https://arxiv.org/pdf/2110.05740.pdf)
 - 2021-10-19: Today we share a paper:
   - REPRESENTATION LEARNING VIA INVARIANT CAUSAL MECHANISMS, by Jovana Mitrovic, Brian McWilliams, Jacob Walker, Lars Buesing, Charles Blundell
     - [download link](https://openreview.net/forum?id=9p2ekP904Rs)
