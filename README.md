@@ -1,5 +1,9 @@
 # Reinforcement learning today
 
+- 2021-10-22: Today we share a paper:
+  - An Empirical Investigation of Representation Learning for Imitation, by Xin Chen, Sam Toyer, Cody Wild, Scott Emmons, Ian Fischer, Kuang-Huei Lee, Neel Alex, Steven H Wang, Ping Luo, Stuart Russell, Pieter Abbeel, Rohin Shah
+    - [download link](https://openreview.net/pdf?id=kBNhgqXatI)
+    - [github repo](https://github.com/HumanCompatibleAI/eirli)
 - 2021-10-20: Today we share a paper:
   - Temporal Abstraction in Reinforcement Learning with the Successor Representation, by Marlos C. Machado, André Barreto, Doina Precup
     - [download link](https://arxiv.org/pdf/2110.05740.pdf)
