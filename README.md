@@ -3,7 +3,7 @@
 - 2021-11-06: Today we share a paper:
   - Self-Consistent Models and Values, by Gregory Farquhar, Matteo Hessel, Kate Baumli Zita Marinho, Hado van Hasselt, Angelos Filos, David Silver
     - [download link](https://arxiv.org/pdf/2110.12840.pdf)
-    - **keywords**: model, self-consistent, deepmind
+    - **keywords**: model, self-consistent
 - 2021-10-22: Today we share a paper:
   - An Empirical Investigation of Representation Learning for Imitation, by Xin Chen, Sam Toyer, Cody Wild, Scott Emmons, Ian Fischer, Kuang-Huei Lee, Neel Alex, Steven H Wang, Ping Luo, Stuart Russell, Pieter Abbeel, Rohin Shah
     - [download link](https://openreview.net/pdf?id=kBNhgqXatI)
@@ -14,7 +14,7 @@
 - 2021-10-19: Today we share a paper:
   - REPRESENTATION LEARNING VIA INVARIANT CAUSAL MECHANISMS, by Jovana Mitrovic, Brian McWilliams, Jacob Walker, Lars Buesing, Charles Blundell
     - [download link](https://openreview.net/forum?id=9p2ekP904Rs)
-    - **keywords**: causal, representation Learning, self-supervised Learning, contrastive Methods, causality, deepmind
+    - **keywords**: causal, representation Learning, self-supervised Learning, contrastive Methods, causality
 - 2021-10-16: Today we share a paper:
   - Nash Equilibria in Finite-Horizon Multiagent Concurrent Games, by Senthil Rajasekaran, Moshe Y. Vardi
     - [download link](https://arxiv.org/pdf/2101.00716.pdf)
@@ -23,15 +23,15 @@
   - Revisiting Rainbow: Promoting more Insightful and Inclusive Deep Reinforcement Learning Research, by Johan S. Obando-Ceron, Pablo Samuel Castro
     - [download link](https://arxiv.org/pdf/2011.14826)
     - [github repo](https://github.com/JohanSamir/revisiting_rainbow)
-    - **keywords**: practice, algorithm, rainbow, deepmind
+    - **keywords**: practice, algorithm, rainbow
 - 2021-10-11: Today we share a paper:
   - Batch size-invariance for policy optimization, by Jacob Hilton, Karl Cobbe, John Schulman
     - [download link](https://arxiv.org/pdf/2110.00641.pdf)
-    - **keywords**: policy, batch-size, openai
+    - **keywords**: policy, batch-size
 - 2021-10-08: Today we share a paper;
   - Recursively Summarizing Books with Human Feedback, by Jeff Wu, Long Ouyang, Daniel M. Ziegler, Nisan Stiennon, Ryan Lowe, Jan Leike, Paul Christiano
     - [download link](https://arxiv.org/pdf/2109.10862.pdf)
-    - **keywords**: alignment, summary, gpt-3, language-model, openai
+    - **keywords**: alignment, summary, gpt-3, language-model
 - 2021-10-06: Today we share a paper:
   - Reinforcement Learning with Information-Theoretic Actuation, by Elliot Catt, Marcus Hutter, Joel Veness
     - [download link](https://arxiv.org/pdf/2109.15147.pdf)
