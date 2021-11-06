@@ -3,7 +3,7 @@
 - 2021-11-06: Today we share a paper:
   - Self-Consistent Models and Values, by Gregory Farquhar, Matteo Hessel, Kate Baumli Zita Marinho, Hado van Hasselt, Angelos Filos, David Silver
     - [download link](https://arxiv.org/pdf/2110.12840.pdf)
-    - **keywords**: model, self-consistent
+    - **keywords**: model, self-consistent, deepmind
 - 2021-10-22: Today we share a paper:
   - An Empirical Investigation of Representation Learning for Imitation, by Xin Chen, Sam Toyer, Cody Wild, Scott Emmons, Ian Fischer, Kuang-Huei Lee, Neel Alex, Steven H Wang, Ping Luo, Stuart Russell, Pieter Abbeel, Rohin Shah
     - [download link](https://openreview.net/pdf?id=kBNhgqXatI)
