@@ -1,6 +1,10 @@
 # Reinforcement learning today
 
 - 2021-11-06: Today we share a paper:
+  - Challenges and Opportunities in Offline Reinforcement Learning from Visual Observations, by Cong Lu, Philip J. Ball, Tim G. J. Rudner, Jack Parker-Holder, Michael A. Osborne, Yee Whye Teh [Details](2022-06-19.md)
+    - [download link](https://arxiv.org/pdf/2206.04779.pdf)
+    - **keywords**: offline
+- 2021-11-06: Today we share a paper:
   - Self-Consistent Models and Values, by Gregory Farquhar, Matteo Hessel, Kate Baumli Zita Marinho, Hado van Hasselt, Angelos Filos, David Silver
     - [download link](https://arxiv.org/pdf/2110.12840.pdf)
     - **keywords**: model, self-consistent
