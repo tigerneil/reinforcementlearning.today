@@ -1,6 +1,10 @@
 # Reinforcement learning today
 
-- 2021-11-06: Today we share a paper:
+- 2022-10-07: Today we share a paper:
+  - How RL Agents Behave When Their Actions Are Modified, by Eric D. Langlois, Tom Everitt [Details](2022-10-07.md)
+    - [download link](https://arxiv.org/pdf/2102.07716.pdf) 
+    - **keywords**: modified action
+- 2022-06-19: Today we share a paper:
   - Challenges and Opportunities in Offline Reinforcement Learning from Visual Observations, by Cong Lu, Philip J. Ball, Tim G. J. Rudner, Jack Parker-Holder, Michael A. Osborne, Yee Whye Teh [Details](2022-06-19.md)
     - [download link](https://arxiv.org/pdf/2206.04779.pdf)
     - **keywords**: offline
