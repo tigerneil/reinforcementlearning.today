@@ -1,5 +1,9 @@
 # Reinforcement learning today
 
+- 2022-10-11: Today we share a paper:
+  - Defining and Characterizing Reward Hacking, by Joar Skalse, Nikolaus H. R. Howe, Dmitrii Krasheninnikov, David Krueger [Details](2022-10-11.md)
+    - [download link](https://arxiv.org/pdf/2209.13085.pdf)
+    - **keywords**: reward hacking
 - 2022-10-07: Today we share a paper:
   - How RL Agents Behave When Their Actions Are Modified, by Eric D. Langlois, Tom Everitt [Details](2022-10-07.md)
     - [download link](https://arxiv.org/pdf/2102.07716.pdf) 
