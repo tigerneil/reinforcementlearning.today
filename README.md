@@ -1,7 +1,7 @@
 # Reinforcement learning today
 
 - 2022-10-27: Today we share a paper:
-  - IN-CONTEXT REINFORCEMENT LEARNING WITH ALGORITHM DISTILLATION, by Michael Laskin∗ Luyu Wang∗ Junhyuk Oh Emilio Parisotto Stephen Spencer, Richie Steigerwald DJ Strouse Steven Hansen Angelos Filos Ethan Brooks, Maxime Gazeau, Himanshu Sahni Satinder Singh Volodymyr Mnih [Details](2022-10-27.md)
+  - IN-CONTEXT REINFORCEMENT LEARNING WITH ALGORITHM DISTILLATION, by Michael Laskin, Luyu Wang, Junhyuk Oh, Emilio Parisotto, Stephen Spencer, Richie Steigerwald, DJ Strouse, Steven Hansen, Angelos Filos, Ethan Brooks, Maxime Gazeau, Himanshu Sahni, Satinder Singh, Volodymyr Mnih [Details](2022-10-27.md)
     - [download link](https://arxiv.org/pdf/2210.14215.pdf)
     - **keywords**: algorithm distillation
 - 2022-10-11: Today we share a paper:
